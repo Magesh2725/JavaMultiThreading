@@ -4,7 +4,7 @@ public class SynchronizedKeywordExample {
 	
 	public int count=0;
 	
-	public  synchronized void increase()
+	public  void increase()
 	{
 		count++;
 	}
